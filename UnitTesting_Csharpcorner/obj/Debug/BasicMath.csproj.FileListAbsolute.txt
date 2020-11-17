@@ -1,0 +1,6 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\UnitTesting_Csharpcorner\UnitTesting_Csharpcorner\bin\Debug\UnitTesting_Csharpcorner.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\UnitTesting_Csharpcorner\UnitTesting_Csharpcorner\bin\Debug\UnitTesting_Csharpcorner.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\UnitTesting_Csharpcorner\UnitTesting_Csharpcorner\bin\Debug\UnitTesting_Csharpcorner.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\UnitTesting_Csharpcorner\UnitTesting_Csharpcorner\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\UnitTesting_Csharpcorner\UnitTesting_Csharpcorner\obj\Debug\UnitTesting_Csharpcorner.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\UnitTesting_Csharpcorner\UnitTesting_Csharpcorner\obj\Debug\UnitTesting_Csharpcorner.pdb
